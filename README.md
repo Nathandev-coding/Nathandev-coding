@@ -3,10 +3,10 @@
 -   💻 Passionate Web Developer |
 -  � Lifelong learner
 - 🤖 Arduino & Tech Enthusiast | 🌐
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Arduino and wen développement
+- 👀 I’m interested domotique et le webb ...
+- 🌱 I’m currently learning Arduino and web développement
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: Nathan coding 
 - ⚡ Fun fact: 🥰
 
