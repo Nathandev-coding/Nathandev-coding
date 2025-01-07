@@ -3,10 +3,10 @@
 -   💻 Passionate Web Developer |
 -  � Lifelong learner
 - 🤖 Arduino & Tech Enthusiast | 🌐
-- 👀 I’m interested domotique et le webb ...
-- 🌱 I’m currently learning Arduino and web développement
+- 👀 I’m interested domotique and full stack web development JavaScript...
+- 🌱 I’m currently learning Arduino, tailwind css, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me (nathantshimbalaga1@gmail.com)
 - 😄 Pronouns: Nathan coding 
 - ⚡ Fun fact: 🥰
 
